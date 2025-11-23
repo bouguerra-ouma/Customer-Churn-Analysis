@@ -18,7 +18,6 @@ Customer-Churn-Analysis/
 │ └── task1.ipynb
 │ └── task2_3.ipynb
 │ └── task4_5_6.ipynb
-  
 │
 ├── datasets/
 │ ├── Telco_Customer_Churn.csv
